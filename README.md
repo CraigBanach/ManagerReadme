@@ -48,6 +48,21 @@ Much like every other human, I often make mistakes or say the wrong things at th
 
 I don't expect or necessarily want you to work outside of work hours. I think it's important for everyone (myself included) to have downtime from work & not having that can lead to burnout or other undesirable outcomes.
 
+### Annual Leave
+
+A significant part of my job is making sure that we can complete epics on time & to enable this I need to figure out how many people are working during any sprint. By booking your annual leave as far in advance as possible, this can help me out.
+
+When booking annual leave, I would like us to **try** to stick to the following guidelines as much as possible:
+
+- 1 - 3 days leave
+  - Try to give me 2 weeks or more notice when possible
+- 4 - 6 days leave
+  - Try to give me 4 weeks or more notice when possible
+- 7+ days leave
+  - Try to give me 6 weeks or more notice when possible
+
+At certain times of the year (Summer/EOY), I may ask you to think ahead three months & put your summer or festive holiday into our leave system. This is to help make sure that we have appropriate cover over the period & so that I can plan in our roadmap. Generally I will be able to accommodate any changes you wish to make, but it helps me to plan if you can think ahead with regards to any leave you are looking to take.
+
 #### Appointments or other out-of-office periods
 
 I expect you to manage your own time with regards to our workload & do not need you to ask permission to attend appointments or other times when you will be out of the office.
