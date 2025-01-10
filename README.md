@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My goal is to put into the open all the thoughts I have, or the questions you might think about. I want you to have a view into my mind, so there is no confusion as to what I expect. I hope it will make your lives a bit easier 🙂.
+My goal is to put into the open all the thoughts I have, or the questions you might think about. I want to give you insight into my thoughts, so there's no confusion about my expectations. I hope it will make your lives a bit easier 🙂.
 
 ## My role
 
@@ -22,7 +22,7 @@ I believe my role within the business is to make sure that our team works well. 
 
 Typically we will have 1:1s for 45 minutes every 2 weeks, but ultimately we should schedule these in for an appropriate frequency & duration that works for us. It may be beneficial to have more frequent or less frequent 1:1s based upon how you like to work & how we work together.
 
-If you ever have anything that you want to discuss with me, you don't have to wait until your 1:1 to discuss it with me. If you like, feel free to put some time in my calendar or if I'm booked out, reach out to me directly to let me know you want to chat about something & I'll make time for you.
+If you ever have anything that you want to discuss with me, you don't have to wait until your 1:1 to discuss it with me. If you'd like, feel free to add time to my calendar. If I'm fully booked, reach out to me directly, & I'll make time for you.
 
 ### 1:1 Content
 
@@ -90,7 +90,7 @@ As we follow Scrum, we have a few ceremonies that are useful to make sure that:
 
 #### Stand up
 
-We have daily stand ups to ensure that we are making good progress on our commited work. During stand ups, it is vital that you raise the following issues:
+We have daily stand-ups to ensure we're making good progress on our committed work. During stand ups, it is vital that you raise the following issues:
 
 - If you're stuck/blocked for any reason. I or someone else on the team should be able to assist in unblocking you, which may involve pointing you to the correct person to help out or spending time with you to work through things
 - You don't know what you should be doing today. I or someone else can point you in the right direction about which tasks to pick up next.
@@ -121,12 +121,40 @@ Per my goal for the team to not be dependent on me - I want every feature to hav
 
 - A thorough design. When you finish the design, for most epics you’ll need to share this with the rest of the team for feedback, this can be done via posting confluence docs in slack or (particularly for more complex epics) in a design review meeting with the team.
 - Ask questions. Don’t take anything for granted. Challenge the assumptions, and aim to understand WHY we are doing that epic. I’ll back you up.
-- Break down the epic into tasks, with instructions for each. Assume you won’t be the one implementing the task. Previously, we've done task breakdown sessions as a way to accopmlish this.
+- Break down the epic into tasks, with instructions for each. Assume you won’t be the one implementing the task. Previously, we've used task breakdown sessions to accomplish this.
 - Gather feedback on your work. Ask me, the architects, other team members. Be specific, and aim to know where you could improve.
 
 ## Your initiatives
 
 If something bothers you - it’s on you to fix it. Open a ticket, write the description, and put it in the next refinement session. I can’t promise you’ll get time right away - but I’ll try my best.
+
+## Things I value as an Engineering Manager
+
+### Taking the initiative
+
+I'm more than happy to be a sounding board or to help out with any questions or problems, but I expect you to try first & come to ask me or the team to help out when you run into issues.
+
+Ideally you would work on a problem & write down what you have tried so far before raising this with the team or myself.
+
+I'd much rather you put your best foot forward & are wrong or make mistakes than freeze or delay working on something.
+
+#### Good Examples
+
+---
+
+When doing UI/UX/technical designs, it'll be common to receive a bunch of feedback or opinions when sharing with the team. Some of this feedback may be contradictory.
+
+Note down all of the feedback you receive during these sessions & afterwards, update what you believe is correct based upon the input & your understanding of the problem space. After making the changes, share this again with the team/PO, explaining the decisions you have made & asking for further input.
+
+---
+
+When you are working on a task, if you get stuck or are struggling in some way, don't wait on someone (probably me) to come & ask for an update. Write a brief list of what you've tried so far and what went wrong. Then, either start a Slack thread or ask for help from me or the team to get unblocked.
+
+---
+
+### Challenging yourself & making mistakes
+
+It's human to make mistakes when we are pushed hard or outside of our comfort zone. I'm more than happy for us to try new things or ways of working as individuals or a team, **as long as we learn from any mistakes that we make & adapt after making them.**
 
 ## Summary
 
