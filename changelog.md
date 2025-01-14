@@ -1,3 +1,7 @@
+# 2025-01-14
+
+- Clarifying wording around requesting annual leave
+
 # 2025-01-10
 
 - Added `things I value` section
