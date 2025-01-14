@@ -79,7 +79,7 @@ This is because people may depend on you, and it's better for everyone to know w
   - There is no expectation for you to answer (or read) messages after hours or on the weekend. I suggest not installing the app on any personal devices.
   - If you are working at odd hours, either:
     - schedule your messages to arrive the following morning, don’t send messages immediately.
-    - Explain in your message that you don't expect a reply until the recipient is within normal working hours. ![ceo signature](/ceo-signiture.jpg)
+    - Explain in your message that you don't expect a reply until the recipient is within normal working hours. ![ceo signature](/assets/ceo-signature.jpg)
 
 ### Planning & Sprints
 
