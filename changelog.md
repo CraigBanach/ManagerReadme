@@ -1,4 +1,8 @@
-# 2025-01-04(2)
+# 2025-01-14(3)
+
+- Fix changelog
+
+# 2025-01-14(2)
 
 - Add GitHub action for notifying parent repo
 - Create assets sub-directory
