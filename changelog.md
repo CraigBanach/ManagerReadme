@@ -1,3 +1,8 @@
+# 2025-01-04(2)
+
+- Add GitHub action for notifying parent repo
+- Create assets sub-directory
+
 # 2025-01-14
 
 - Clarifying wording around requesting annual leave
