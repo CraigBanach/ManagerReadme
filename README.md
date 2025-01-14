@@ -50,9 +50,9 @@ I don't expect or necessarily want you to work outside of work hours. I think it
 
 ### Annual Leave
 
-A significant part of my job is making sure that we can complete epics on time & to enable this I need to figure out how many people are working during any sprint. By booking your annual leave as far in advance as possible, this can help me out.
+A significant part of my job is making sure that we can complete epics on time & to enable this I need to figure out how many people are working during any sprint. By requesting your annual leave as far in advance as possible, this can help me out.
 
-When booking annual leave, I would like us to **try** to stick to the following guidelines as much as possible:
+When requesting annual leave, I would like us to **try** to stick to the following guidelines as much as possible:
 
 - 1 - 3 days leave
   - Try to give me 2 weeks or more notice when possible
@@ -61,7 +61,7 @@ When booking annual leave, I would like us to **try** to stick to the following 
 - 7+ days leave
   - Try to give me 6 weeks or more notice when possible
 
-At certain times of the year (Summer/EOY), I may ask you to think ahead three months & put your summer or festive holiday into our leave system. This is to help make sure that we have appropriate cover over the period & so that I can plan in our roadmap. Generally I will be able to accommodate any changes you wish to make, but it helps me to plan if you can think ahead with regards to any leave you are looking to take.
+At certain times of the year (Summer/EOY), I may ask you to think ahead three months & request your summer or festive leave. This is to help make sure that we have appropriate cover over the period & so that I can plan in our roadmap. Generally I will be able to accommodate any changes you wish to make, but it helps me to plan if you can think ahead with regards to any leave you are requesting.
 
 #### Appointments or other out-of-office periods
 
